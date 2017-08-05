@@ -1,0 +1,5 @@
+cha=raw_input("Enter a charecter: ")
+if (cha >= 'a' and cha <= 'z'):
+    print "It is a charecter"
+else:
+    print "It is a number"
