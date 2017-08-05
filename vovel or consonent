@@ -1,0 +1,6 @@
+cha=raw_input("Enter a charecter: ")
+str(cha)
+if cha[0] == "a" or "e" or "i" or "o" or "u":
+    print "It is a vowel"
+else:
+    print "It is a consonent"
